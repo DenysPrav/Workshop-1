@@ -29,3 +29,4 @@ na pewno daje duży zastrzyk praktycznej wiedzy i pozwala na szybsze i bardziej 
    - czytanie plików,
    - zapis danych do plików,
    - import oraz wykorzystanie zewnętrznych bibliotek.
+   
